@@ -1,0 +1,14 @@
+## Visual Studio
+*.suo
+*.user
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+packages/
+*.nupkg
+project.lock.json
+.vs/
